@@ -1,3 +1,4 @@
+/* João Victor da Silva Bernardes 2°D */
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
